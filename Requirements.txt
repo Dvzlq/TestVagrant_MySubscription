@@ -1,0 +1,4 @@
+#Requires an import for combinations from itertools
+#command --> from itertools import combinations
+#pip install itertools to install itertools package --> older version
+pip install more-itertools 
